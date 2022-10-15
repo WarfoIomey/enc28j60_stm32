@@ -1,0 +1,3 @@
+../Core/Src/udp.c:14:9:udp_send	56	static
+../Core/Src/udp.c:38:9:udp_reply	48	static
+../Core/Src/udp.c:57:9:udp_read	112	static

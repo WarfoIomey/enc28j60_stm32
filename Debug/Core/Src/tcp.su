@@ -1,0 +1,2 @@
+../Core/Src/tcp.c:17:9:tcp_send	48	static
+../Core/Src/tcp.c:187:9:tcp_read	80	static

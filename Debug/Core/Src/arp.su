@@ -1,0 +1,4 @@
+../Core/Src/arp.c:23:9:arp_read	48	static
+../Core/Src/arp.c:63:6:arp_send	72	static
+../Core/Src/arp.c:86:9:arp_request	96	static
+../Core/Src/arp.c:145:6:arp_table_fill	88	static

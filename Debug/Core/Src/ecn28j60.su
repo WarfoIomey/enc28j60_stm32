@@ -1,0 +1,17 @@
+../Core/Src/ecn28j60.c:16:22:DelayMicro	16	static
+../Core/Src/ecn28j60.c:23:13:Error	4	static
+../Core/Src/ecn28j60.c:28:9:SPIx_WriteRead	32	static
+../Core/Src/ecn28j60.c:38:6:SPI_SendByte	16	static
+../Core/Src/ecn28j60.c:43:9:SPI_ReceiveByte	16	static
+../Core/Src/ecn28j60.c:49:6:enc28j60_writeOp	16	static
+../Core/Src/ecn28j60.c:57:16:enc28j60_readOp	24	static
+../Core/Src/ecn28j60.c:70:13:enc28j60_readBuf	24	static
+../Core/Src/ecn28j60.c:80:13:enc28j60_writeBuf	16	static
+../Core/Src/ecn28j60.c:89:6:enc28j60_SetBank	16	static
+../Core/Src/ecn28j60.c:99:6:enc28j60_writeRegByte	16	static
+../Core/Src/ecn28j60.c:105:16:enc28j60_readRegByte	16	static
+../Core/Src/ecn28j60.c:111:6:enc28j60_writeReg	16	static
+../Core/Src/ecn28j60.c:117:13:enc28j60_writePhy	16	static
+../Core/Src/ecn28j60.c:125:6:enc28j60_ini	8	static
+../Core/Src/ecn28j60.c:167:10:enc28j60_packetReceive	24	static
+../Core/Src/ecn28j60.c:195:6:enc28j60_packetSend	16	static

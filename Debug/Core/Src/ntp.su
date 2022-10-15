@@ -1,0 +1,2 @@
+../Core/Src/ntp.c:17:9:ntp_read	96	static
+../Core/Src/ntp.c:38:9:ntp_request	40	static
